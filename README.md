@@ -64,8 +64,28 @@ Neben allen notwendigen Servermods enthält sie auch folgende optionalen Clientm
 
 Alle Clientmods sind optional und können auch einfach entfernt werden, wenn nicht gewünscht.
 
-## Schritt 4 - Spiel starten und Serverdaten eingeben
+## Schritt 5 - Spiel starten und Serverdaten eingeben
 
 Den Server erreicht ihr unter der Adresse `bitmonk.de`. Meldet euch bitte vorher bei mir damit ich euch auf die Whitelist setze.
 
 > Ihr dürft das Modpack gerne auch für euren eigenen Server benutzen
+
+## Mod Highlights
+
+- Apotheosis
+- Ars Nouveau
+- Astral Sorcery
+- Blood Magic
+- Botania
+- Oh the biomes you'll go
+- CC-Tweaked
+- Chisel & Chisels and Bits
+- Cooking for Blockheads
+- Doggy Talents
+- Ice and Fire
+- Mekanism
+- Refined Storage
+- Silent Gear
+- Twilight Forest
+
+Und viele weitere QoL, Performance und Gameplay Mods!
