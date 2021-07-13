@@ -38,6 +38,8 @@ Die MultiMC mit allen Mods und Configs bekommt ihr Hier:
 
 Diese müsst ihr einfach per Drag&Drop in das Fenster vom MultiMC-Launcher ziehen.
 
+## Schritt 4 (Optional) - Client Mods
+
 Neben allen notwendigen Servermods enthält sie auch folgende optionalen Clientmods:
 
 - Better Foliage + cloth-config
@@ -60,7 +62,7 @@ Neben allen notwendigen Servermods enthält sie auch folgende optionalen Clientm
 - SoundFilters
   - Fügt hall in Höhlen hinzu und dämpft Geräusche je nach Wänden die zwischen dir und der Quelle liegen.
 
-Alle Clientmods sind optional und können auch einfach entfernt werden wenn nicht gewünscht.
+Alle Clientmods sind optional und können auch einfach entfernt werden, wenn nicht gewünscht.
 
 ## Schritt 4 - Spiel starten und Serverdaten eingeben
 
